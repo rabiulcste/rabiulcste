@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Intern @Mila. Working on vision and language understanding.
+Phd student @Mila. Working on visual representation learning and world models.
 
-- 🔭 I’m currently working on vision and language
-- 🌱 I’m currently learning CUDA and hacking python
-- 📫 How to reach me: awalrabiul6@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to cook and take random walks
-
+📫 How to reach me: awalrabiul6@gmail.com
+😄 Pronouns: he/him
